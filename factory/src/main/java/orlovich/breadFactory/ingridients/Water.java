@@ -11,6 +11,6 @@ public abstract class Water implements Ingridient {
 
     public abstract void pourWater(int ml);
 
-    public abstract int purchasePrise();
+    public abstract int getPurchasePrise();
 
 }

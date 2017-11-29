@@ -12,6 +12,6 @@ public abstract class Flour implements Ingridient {
 
     public abstract void takeFlour(int piece);
 
-    public abstract int purchasePrise();
+    public abstract int getPurchasePrise();
 
 }

@@ -7,7 +7,7 @@ public class TapWater extends Water {
 
 
     @Override
-    public int purchasePrise() {
+    public int getPurchasePrise() {
         return PURCHASE_PRISE;
     }
 

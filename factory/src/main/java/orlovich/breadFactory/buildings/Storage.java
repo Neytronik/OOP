@@ -26,8 +26,5 @@ public class Storage {
                 "\nexpensiveFerWeight = " + expensiveFerWeight
         );
     }
-
-    //должен содержать в себе список всех количеств ингридиентов и готовой к продаже продукции
-
 }
 

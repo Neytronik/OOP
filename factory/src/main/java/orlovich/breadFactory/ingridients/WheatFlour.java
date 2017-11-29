@@ -9,7 +9,7 @@ public class WheatFlour extends Flour {
 
 
     @Override
-    public int purchasePrise() {
+    public int getPurchasePrise() {
         return PURCHASE_PRISE;
     }
 

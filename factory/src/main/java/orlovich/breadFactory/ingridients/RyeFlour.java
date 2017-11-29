@@ -6,7 +6,7 @@ public class RyeFlour extends Flour {
     private static final int PURCHASE_PRISE = 2;
 
     @Override
-    public int purchasePrise() {
+    public int getPurchasePrise() {
         return PURCHASE_PRISE;
     }
 

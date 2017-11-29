@@ -20,7 +20,7 @@ public enum Recipe {
         this.wtr = wtr;
     }
 
-    public int costDough() {
+    public int getCostDough() {
         return fl.price + wtr.price + frm.price;
     }
 

@@ -8,8 +8,8 @@ public class Dough implements Produce {
         this.r = r;
     }
 
-    public int cost() {
-        return r.costDough();
+    public int getCost() {
+        return r.getCostDough();
     }
 
 

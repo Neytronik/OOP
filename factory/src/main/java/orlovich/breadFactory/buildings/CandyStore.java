@@ -4,10 +4,9 @@ import orlovich.breadFactory.produces.Produce;
 
 public class CandyStore {
 
+    public int getMoneyAfterSellProduce(Produce produce) {
 
-    public int sellProduce(Produce produce) {
-
-        return produce.cost();
+        return produce.getCost();
 
     }
 

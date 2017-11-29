@@ -6,7 +6,7 @@ public class CheapFerment extends Ferment {
     private static final int PURCHASE_PRISE = 1;
 
     @Override
-    public int purchasePrise() {
+    public int getPurchasePrise() {
         return PURCHASE_PRISE;
     }
 

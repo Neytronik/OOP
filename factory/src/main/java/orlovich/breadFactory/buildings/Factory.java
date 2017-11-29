@@ -19,9 +19,4 @@ public class Factory {
     public static HashMap<String, Baker> bakers = new HashMap<>(MAX_WORKERS);
     public static HashMap<String, BreadMaker> breadMakers = new HashMap<>(MAX_BREAD_MAKER);
 
-
-    //вначале старта приложения запускать потоки на отдельные сервисы,например на выплату зарплаты работникам
-    //фабрика должна содержать единицы оборудования и список работников ну и общие константы и другие характеристики
-
-
 }

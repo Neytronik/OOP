@@ -19,6 +19,6 @@ public abstract class Ferment implements Ingridient {
 
     public abstract void takeFerment(int piece);
 
-    public abstract int purchasePrise();
+    public abstract int getPurchasePrise();
 
 }
