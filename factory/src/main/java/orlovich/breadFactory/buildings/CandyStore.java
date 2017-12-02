@@ -8,7 +8,5 @@ public class CandyStore {
     public int getMoneyAfterSellProduce(Produce produce) {
 
         return produce.getCost();
-
     }
-
 }
